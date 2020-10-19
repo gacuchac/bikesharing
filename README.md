@@ -4,6 +4,9 @@
 The purpose of this analysis is to show to investors that a bike-sharing program in Des Moines is a solid business proposal. For that, we will analyse August 2019 New York City's data.
 
 ## Results
+### Story
+More details to this story could be find here:
+[NYC Citybike Story](https://public.tableau.com/profile/gabriel7113#!/vizhome/NYC_Citibike_Challenge/NYCCitybikeStory)
 ### Hourly Usage
 ![](images/Checkout_Time.png)
 We can observe from the plot, that most rides are between 3 and 9 hours with a peak of 5 hours.
@@ -32,9 +35,6 @@ When comparing side by side the office buildings, most common destinations and t
 ### Bike Utilization
 ![](images/Bike_Utilization.png)                                                                                                        
 Finally, the bike usage shows that few bikes have the most usage. This supports our previous analysis because it shows that most travels ocurr in a relative small area, mid and lower Manhattan, so this bikes stay in a busy area and are very used, while the other bikes are dispersed in New York City in areas where ther are fewer rides.
-### Story
-More details to this story could be find here:
-[NYC Citybike Story](https://public.tableau.com/profile/gabriel7113#!/vizhome/NYC_Citibike_Challenge/NYCCitybikeStory)
 
 ## Summary
 Based on the dataset, we have identified the client of New York City, students and office workers of mid and lower Manhattan. The next step is to find the corresponding users in Des Moines. When considering the concentration of universities, downtown Des Moines, seems to be a good canditate.
