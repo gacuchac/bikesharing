@@ -5,7 +5,7 @@ The purpose of this analysis is to show to investors that a bike-sharing program
 
 ## Results
 ### Hourly Usage
-![](images\Checkout_Time.png)
+![](images/Checkout_Time.png)
 We can observe from the plot, that most rides are between 3 and 9 hours with a peak of 5 hours.
 ### Hourly Usage by Gender
 ![](images\Checkout_Time_Gender.png)
