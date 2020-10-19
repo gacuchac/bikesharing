@@ -20,7 +20,7 @@ Again, we can see that there is no significant difference between males and fema
 ![](images/Usertype_Gender.png)
 When comparing casual users, Customer, with recurring users, Subscriber, we can observe that the difference is abismal. 
 gender and the day of te week makes no difference. This tells us that most clients are people commited to this type of vehicle.
-### Customer Age
+### Customer Age per Gender
 ![](images/Tripduration_Age.png)
 We can see that independent of the gender, the average trip duration tends to increase with the birth year. This means that most users are between 16-60 years olds with a peak between 16-23 years old, wich correspond to students and office workers.
 ### Most Common Locations
