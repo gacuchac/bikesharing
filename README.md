@@ -43,5 +43,5 @@ Using this same dataset, we could also visualize
 * Trip duration through the month.                                                                     
 ![](images/Tripduration_Month.png)
 * The amount of bikes needed per ride through the month.                                                    
-![](images/Rides_Bike.png)
+![](images/Rides_Bike.png)                                                                                                              
 We can see that there's a high correlation between the amount of rides per bike and the average trip duration. This makes sense, since the longer the rides, the more bikes are needed because more bikes are occupied.
