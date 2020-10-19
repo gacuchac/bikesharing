@@ -40,8 +40,8 @@ More details to this story could be find here:
 Based on the dataset, we have identified the client of New York City, students and office workers of mid and lower Manhattan. The next step is to find the corresponding users in Des Moines. When considering the concentration of universities, downtown Des Moines, seems to be a good canditate.
 ![](images/Des_Moines.png)                                                                                                         
 Using this same dataset, we could also visualize 
-* Trip duration through the month.
+* Trip duration through the month.                                                                     
 ![](images/Tripduration_Month.png)
-* The amount of bikes needed per ride through the month.
+* The amount of bikes needed per ride through the month.                                                    
 ![](images/Rides_Bike.png)
 We can see that there's a high correlation between the amount of rides per bike and the average trip duration. This makes sense, since the longer the rides, the more bikes are needed because more bikes are occupied.
