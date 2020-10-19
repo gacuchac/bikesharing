@@ -30,7 +30,7 @@ We can see that independent of the gender, the average trip duration tends to in
 
 When comparing side by side the office buildings, most common destinations and the universities of New York City, we can see that there is a high correlation between them. This suggests, again, that most users are university students and office workers.
 ### Bike Utilization
-![](images/Bike_Utilization.png)
+![](images/Bike_Utilization.png)                                                                                                        
 Finally, the bike usage shows that few bikes have the most usage. This supports our previous analysis because it shows that most travels ocurr in a relative small area, mid and lower Manhattan, so this bikes stay in a busy area and are very used, while the other bikes are dispersed in New York City in areas where ther are fewer rides.
 ### Story
 More details to this story could be find here:
