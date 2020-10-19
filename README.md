@@ -27,6 +27,7 @@ We can see that independent of the gender, the average trip duration tends to in
 |Offices|Top Destinations           |Universities                          |
 :-:|:--------------------------:|:-------------------------------------:
 ![](images/Offices.png)|![](images/Destinations.png)|![](images/Universities.png)
+
 When comparing side by side the office buildings, most common destinations and the universities of New York City, we can see that there is a high correlation between them. This suggests, again, that most users are university students and office workers.
 ### Bike Utilization
 ![](images/Bike_Utilization.png)
